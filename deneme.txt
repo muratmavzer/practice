@@ -4,3 +4,5 @@ THREE!
 FOUR!
 FIVE!
 SIX!
+SEVEN!
+EİGHT!
