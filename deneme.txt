@@ -6,3 +6,4 @@ FIVE!
 SIX!
 SEVEN!
 EİGHT!
+TEN!
